@@ -16,7 +16,6 @@ The goal of this project was to modify starter code to create an application cal
 - [Links](#links)
 - [Screenshots](#screenshots)
 - [Usage](#usage)
-- [Credits](#credits)
 - [Questions](#questions)
 - [License](#license)
 
@@ -30,3 +29,23 @@ The goal of this project was to modify starter code to create an application cal
 
 ## Links
 - [GitHub Repository](https://github.com/Cktestakis/Note-Taker)
+- [Deployed Application](https://protected-refuge-49302.herokuapp.com/)
+
+## Screenshots 
+Coming soon
+
+## Usage
+
+1. Open the website.
+
+2. Click the Get Started button.
+
+3. Enter your note's title and text into the appropriate fields in the right-hand portion of the screen.
+
+4. Click the Save icon in the navigation bar in the top right of the screen.
+
+## Questions 
+If you have any questions about the repo you can email me:
+[Mail](codyktestakis@gmail.com)
+---
+[![Deploy](https://protected-refuge-49302.herokuapp.com/)](https://heroku.com/deploy)
