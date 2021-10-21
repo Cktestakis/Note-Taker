@@ -48,4 +48,4 @@ Coming soon
 If you have any questions about the repo you can email me:
 [Mail](codyktestakis@gmail.com)
 ---
-[![Deploy](https://protected-refuge-49302.herokuapp.com/)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
